@@ -13,7 +13,7 @@ BiocManager::install("glmGamPoi")
 ## Installation 
 You can easily install the package by the following command:
 ```
-install_github("longmanz/Mixscale")
+devtools::install_github("longmanz/Mixscale")
 ```
 
 ## Other resources
